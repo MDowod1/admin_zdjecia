@@ -4,8 +4,8 @@ self.addEventListener("install", (event) => {
       return cache.addAll([
         "./index.html",
         "./manifest.json",
-        "./aparata1.png",
-        "./aparata2.png"
+        "./aparata1.jpg",
+        "./aparata2.jpg"
       ]);
     })
   );
@@ -17,4 +17,5 @@ self.addEventListener("fetch", (event) => {
       return response || fetch(event.request);
     })
   );
+
 });
