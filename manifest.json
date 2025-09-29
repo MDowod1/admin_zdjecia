@@ -7,14 +7,15 @@
   "start_url": "index.html",
   "icons": [
     {
-      "src": "aparata1.png",
+      "src": "aparata1.jpg",
       "sizes": "192x192",
       "type": "image/png"
     },
     {
-      "src": "aparata2.png",
+      "src": "aparata2.jpg",
       "sizes": "512x512",
       "type": "image/png"
     }
   ]
+
 }
