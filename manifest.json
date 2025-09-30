@@ -1,6 +1,6 @@
 {
   "name": "Admin zdjecia",
-  "short_name": "Admin Zdjecia",
+  "short_name": "AdminZdjecia",
   "theme_color": "#1f2937",
   "background_color": "#111827",
   "display": "standalone",
@@ -18,4 +18,5 @@
     }
   ]
 }
+
 
