@@ -5,8 +5,8 @@ const CACHE_NAME = "admin-panel-zdj-v6";
 const FILES_TO_CACHE = [
   "./index.html",
   "./manifest.json",
-  "./panel1.jpg",
-  "./panel2.jpg"
+  "./aparata1.jpg",
+  "./aparata2.jpg"
 ];
 
 // ✅ Install – zapisuje pliki w cache
@@ -44,6 +44,7 @@ self.addEventListener("fetch", (event) => {
     })
   );
 });
+
 
 
 
