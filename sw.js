@@ -1,5 +1,5 @@
 // ✅ Nazwa cache z wersją
-const CACHE_NAME = "admin-panel-zdj-v4";
+const CACHE_NAME = "admin-panel-zdj-v5";
 
 // ✅ Lista plików do cache
 const FILES_TO_CACHE = [
@@ -44,6 +44,7 @@ self.addEventListener("fetch", (event) => {
     })
   );
 });
+
 
 
 
