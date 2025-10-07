@@ -4,8 +4,7 @@
   "theme_color": "#1f2937",
   "background_color": "#111827",
   "display": "standalone",
-  "start_url": "./",
-  "scope": "/admin_zdjecia/",
+  "start_url": "index.html",
   "icons": [
     {
       "src": "panel1.jpg",
@@ -19,6 +18,7 @@
     }
   ]
 }
+
 
 
 
